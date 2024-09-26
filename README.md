@@ -2,7 +2,7 @@
 work during discussion sections for the EDS220 Meds course
 # EDS 220 Discussion Sections Repository
 
-This repository hosts all the work completed by [YOUR NAME HERE] during the discussion sections of EDS 220 - *Working with Environmental Datasets*.
+This repository hosts all the work completed by Karol Paya during the discussion sections of EDS 220 - *Working with Environmental Datasets*.
 
 ## Course Information
 
